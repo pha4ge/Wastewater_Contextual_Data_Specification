@@ -15,9 +15,9 @@ The following version information regarding field/piclkist term values are avail
 
 ## Files
 
-- `Wastewater_Master-Reference-Guide_v1-0-0.xlsx` 
+- `Wastewater_Master-Reference-Guide_v3-1-1.xlsx` 
 Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.).
 
-- `Wastewater_Master-Reference_Field-Reference-Guide_v1-0-0.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
+- `Wastewater_Master-Reference_Field-Reference-Guide_v3-1-1.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
 
-- `Wastewater_Master-Reference_Term-Reference-Guide_v1-0-0.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
+- `Wastewater_Master-Reference_Term-Reference-Guide_v3-1-1.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
